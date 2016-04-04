@@ -1,2 +1,2 @@
 # hello-world3
-class-code
+Ejemplo de clase. 
